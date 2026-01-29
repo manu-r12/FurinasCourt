@@ -1,4 +1,6 @@
 # FurinaCourt (In Progress)
+<img width="1199" height="508" alt="image" src="https://github.com/user-attachments/assets/13deb3c8-fe14-42ab-aecd-5cc94b2cd3ea" />
+
 
 A 2D narrative-driven game inspired by **Furina** from *Genshin Impact*, built using **Java** and **LibGDX**.
 
